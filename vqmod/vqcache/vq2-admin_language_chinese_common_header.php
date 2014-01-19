@@ -79,6 +79,7 @@ $_['text_voucher']                     = '礼品券';
 $_['text_voucher_theme']               = '礼品券主题';
 $_['text_weight_class']                = '重量单位';
 $_['text_length_class']                = '长度单位';
+$_['text_vqgen']               = 'VQGen';
 $_['text_vqmod_manager']               = 'VQMod Manager';
 $_['text_zone']                        = '国家地区';
 ?>
