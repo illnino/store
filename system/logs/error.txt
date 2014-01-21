@@ -1,3 +1,0 @@
-2014-01-19 4:30:39 - PHP Notice:  Undefined variable: HTTP_SERVER in D:\UniServer\www\store\vqmod\vqcache\vq2-admin_controller_common_header.php on line 178
-2014-01-19 4:34:26 - PHP Warning:  link() expects exactly 2 parameters, 3 given in D:\UniServer\www\store\vqmod\vqcache\vq2-admin_controller_common_header.php on line 179
-2014-01-19 4:35:21 - PHP Warning:  link(): No such file or directory in D:\UniServer\www\store\vqmod\vqcache\vq2-admin_controller_common_header.php on line 179

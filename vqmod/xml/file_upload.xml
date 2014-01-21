@@ -1,0 +1,67 @@
+<modification>
+	<id>File Uploader</id>
+	<version>1.0</version>
+	<vqmver>2.1.5</vqmver>
+	<author>Hydrowire enhanced by nino</author>
+	<file name="admin/controller/common/filemanager.php">
+		<operation>
+			<search position="before"><![CDATA[if (isset($this->request->get['image'])) {]]></search>
+			<add><![CDATA[$ext = strrchr($this->request->get['image'], '.');
+                if(strtolower($ext) == '.pdf') {
+                    $this->request->get['image'] = 'pdf_icon.png';
+                }
+				if(strtolower($ext) == '.doc') {
+                    $this->request->get['image'] = 'word_icon.png';
+                }
+                if(strtolower($ext) == '.xls') {
+                    $this->request->get['image'] = 'excel_icon.png';
+                }
+                ]]></add>
+		</operation>
+		<operation>
+			<search position="after"><![CDATA['.jpg',]]></search>
+			<add><![CDATA['.pdf', '.doc', '.xls',]]></add>
+		</operation>
+        <operation error="skip"><!-- 1.5.0.x - 1.5.1.2 only -->
+			<search position="replace"><![CDATA[$this->model_tool_image->resize(substr($file, strlen(DIR_IMAGE)), 100, 100)]]></search>
+            <add><![CDATA[(strtolower($ext) == '.pdf') ? $this->model_tool_image->resize('pdf_icon.png', 100, 100) : $this->model_tool_image->resize(substr($file, strlen(DIR_IMAGE)), 100, 100)]]></add>
+		</operation>
+        <operation error="skip"><!-- 1.5.1.3 only -->
+			<search position="replace"><![CDATA[$this->model_tool_image->resize(utf8_substr($file, strlen(DIR_IMAGE)), 100, 100)]]></search>
+			<add><![CDATA[(strtolower($ext) == '.pdf') ? $this->model_tool_image->resize('pdf_icon.png', 100, 100) : $this->model_tool_image->resize(utf8_substr($file, strlen(DIR_IMAGE)), 100, 100)]]></add>
+		</operation>
+		<operation>
+			<search position="replace"><![CDATA[300000]]></search>
+			<add><![CDATA[3000000]]></add>
+		</operation>
+		<operation>
+			<search position="after"><![CDATA['image/jpeg',]]></search>
+			<add><![CDATA['application/pdf',
+                'application/x-pdf',
+                'application/msword',
+				'application/doc',
+				'appl/text',
+				'application/vnd.msword',
+				'application/vnd.ms-word',
+				'application/winword',
+				'application/word',
+				'application/x-msw6',
+				'application/x-msword',
+				'application/vnd.ms-excel',
+				'application/msexcel',
+				'application/x-msexcel',
+				'application/x-ms-excel',
+				'application/x-excel',
+				'application/x-dos_ms_excel',
+				'application/xls',
+				'application/kswps',
+				'application/octet-stream',]]></add>
+		</operation>
+    </file>
+	<file name="admin/language/english/common/filemanager.php">
+		<operation>
+			<search position="replace"><![CDATA[300kb]]></search>
+			<add><![CDATA[3MB]]></add>
+		</operation>
+    </file>
+</modification>

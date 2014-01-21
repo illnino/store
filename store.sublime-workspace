@@ -1,0 +1,794 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"selectFirst"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/UniServer/www/tmp.txt",
+			"settings":
+			{
+				"buffer_size": 831,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Dropbox/Dropbox/WriteRoom/Blog 经验分享.txt",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/UniServer/usr/local/php/php.ini",
+			"settings":
+			{
+				"buffer_size": 68917,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 228.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/UniServer/www/store/index.php",
+		"/D/UniServer/usr/local/php/php_production.ini",
+		"/D/UniServer/usr/local/php/php_development.ini",
+		"/D/UniServer/www/store/vqmod/xml/vqgen_menu_shortcut.xml",
+		"/D/UniServer/www/store/vqmod/xml/vqmm_menu_shortcut.xml",
+		"/D/UniServer/www/store/catalog/controller/checkout/confirm.php",
+		"/D/UniServer/www/store/vqgen/README.md",
+		"/D/UniServer/www/store/admin/controller/common/header.php",
+		"/D/UniServer/www/store/config.php",
+		"/D/UniServer/www/store/admin/config.php",
+		"/D/UniServer/www/store/admin/view/template/common/header.tpl",
+		"/D/UniServer/www/store/admin/view/template/common/home.tpl",
+		"/D/UniServer/www/opencart extension/vqgen-3.3.0/README.md",
+		"/D/UniServer/www/opencart extension/vqgen-3.3.0/vqgen/index.php",
+		"/D/UniServer/www/store/vqmod/vqmod.php",
+		"/D/UniServer/www/store/vqmod/install/ugrsr.class.php",
+		"/D/UniServer/www/store/vqmod/xml/test.xml",
+		"/C/Documents and Settings/Administrator/桌面/vqmod_opencart.xml",
+		"/D/UniServer/www/store/.gitignore",
+		"/D/UniServer/www/.htaccess",
+		"/D/UniServer/usr/local/apache2/conf/httpd.conf",
+		"/D/UniServer/usr/local/apache2/logs/error.log",
+		"/D/UniServer/www/store/.htaccess",
+		"/D/UniServer/www/store/.gitattributes",
+		"/D/UniServer/www/store/admin/config-dist.php",
+		"/D/UniServer/www/store/config-dist.php",
+		"/C/Documents and Settings/Administrator/桌面/tabdrop/js/bootstrap-tabdrop.js",
+		"/C/Documents and Settings/Administrator/桌面/新建文件夹/index.html",
+		"/C/Documents and Settings/Administrator/桌面/tabdrop/index.html",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/livechat.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/stylesheet.css",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/sample.html",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/htacess/.htaccess",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/javascript/jquery/复件 jquery-1.9.1.min.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/javascript/jquery/jquery-1.9.1.min.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/javascript/jquery/jquery-1.7.1.min.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/module/复件 slideshow.tpl",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/js/jquery.flexslider-min.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/stylesheet/slideshow.css",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/module/slideshow.tpl",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DRa0.363/woothemes-FlexSlider-ca347d4/flexslider.css",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/csv/readme.txt",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/csv/upload/adminhtcg11/language/zh-CN/tool/export.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/stylesheet/slideshow.css",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/csv/upload/vqmod/xml/export.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/view/template/common/header.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/vqmod/6_Sat.log",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/remove_email_address.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/csv/upload/admin/model/tool/export.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/controller/common/header.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/1.5/upload/catalog/view/javascript/livesearch.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/stylesheet/livesearch.css",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/1.5/readme.txt",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/controller/product/search.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/common/header.tpl",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/common/footer.tpl",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/getdata.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/install/view/template/header.tpl",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/btheme_fix_autocomplete.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/stylesheet/carousel.css",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DRa0.651/1.5/readme.txt",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DRa0.761/1.5/upload/catalog/view/javascript/livesearch.js",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/btheme_remove_autocomplete.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/stylesheet/stylesheet.css",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/language/english/common/header.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/btheme_translate_menu.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/skeleton.xml",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/bigshop_opencart_weidea.net/OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/product/product.tpl",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/mail/order.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/common/footer.php",
+		"/F/Dropbox/Dropbox/mzvisa/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/vqmod_RemoveOpencartCopyright.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/mail/order.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/product/product.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/remove_email_address.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/remove_account_order_address.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/account/order_info.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/remove_account_order_address",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/view/template/sale/order_history.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/view/template/sale/order_info.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/step234checkout.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/checkout/checkout.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/payment/cod.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/language/zh-CN/payment/cod.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/controller/checkout/checkout.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/controller/payment/cod.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/checkout/payment_method.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/controller/checkout/payment_method.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/checkout/checkout.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/view/template/sale/contact.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/language/zh-CN/mail/order.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/model/checkout/order.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/correct_discount.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/.htpasswd",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/.htaccess",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/rewrite.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/.htaccess",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/.htcaccess",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/.htaccess.txt",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/error.txt",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/config.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/config.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/yynews-master/catalog/view/theme/default/template/module/yynews_list.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/yynews-master/catalog/view/theme/default/template/module/yynews_form.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/product/product.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/controller/product/product.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/model/catalog/product.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/view/theme/default/template/product/category.tpl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/skeleton.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/index.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/php.ini",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/s.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod/dddd",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/php.ini",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/1/1.mxl",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/1/__init__.py",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/1.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/language/zh-CN/common/footer.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/model/catalog/product.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/controller/catalog/product.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/language/english/common/footer.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/vqmod/4_Thu.log",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/ext/vqmod_RemoveOpencartCopyright.xml",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/catalog/language/zh-CN/mail/order.php",
+		"/C/Documents and Settings/Administrator/桌面/mzvisa/OpenCart_v1.5.5.1-CN-master/upload/admin/controller/sale/contact.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"D:\\UniServer\\www\\store\\catalog",
+			"",
+			"D:\\UniServer\\usr\\local\\apache2\\conf",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"production",
+			"Production",
+			"production",
+			"Production",
+			"production",
+			"Production",
+			"HTTP_CATALOG",
+			"HTTP_SERVER",
+			"HTTP_CATALOG",
+			"HTTP_SERVER",
+			";\n",
+			"HTTP_SERVER",
+			"$this->url->link",
+			"vqmod_manager",
+			"\\",
+			"'",
+			"/",
+			"VQModLog",
+			"directory",
+			"directories",
+			"DirectoryIndex index.html index.htm index.shtml index.cgi index.php index.php3 index.pl index.xhtml index.html.var",
+			"Internal Server Error",
+			"Options -Indexes",
+			"WinReszier",
+			"ol",
+			"this.nodeType===1",
+			"append",
+			"this.nodeType === 1 && this.appendChild(a)",
+			"#header #welcome a:hover, #header .links:hover, #currency:hover, #language:hover, ",
+			"theme",
+			"<section class=\"flexslider\">",
+			"category_accordion",
+			"admin",
+			"name=filter_name",
+			"<?php echo $google_analytics; ?>",
+			"jquery.ui.autocomplete.js ",
+			"$(document).ready(function() {",
+			"autocomplete.js",
+			"<div id=\"facebook\" class=\"social-part\">",
+			"\\boffsetLeft\\b",
+			"offsetLeft",
+			"<img src=\"view/image/logo.png\"",
+			"\\bADMINISTRATION\\b",
+			"\\bMIME\\b",
+			"MIME",
+			".column",
+			".contact",
+			"<span>Menu</span>",
+			"#footer",
+			"pinterest",
+			"{ height:40px; line-height:40px; text-align: right; float:right; font-size:11px; color:#999;}",
+			"#powered {",
+			"#powered { height:50px; line-height:45px; font-size:11px; color:#777; border-top:1px solid #444; margin-top:15px;}",
+			"zh-CN",
+			"common",
+			"zh-CN",
+			"powered",
+			"<div class=\"social\">",
+			"\\",
+			"table class=\"list\"",
+			"\\",
+			"cash on delivery",
+			"线下支付",
+			"text_checkout_payment_method",
+			"['text_link'] ",
+			"$_['text_link'] ",
+			"如果您有任何疑问， 请直接回复此邮件",
+			"点击此联结查看您的订单：\n\n点击此联结查看您的订单",
+			"admin",
+			"$text_discount",
+			"if ($discount) {",
+			"$this->data['text_no_price'] = $this->language->get('text_no_price');",
+			"text_discount",
+			"$('#payment-address .checkout-content').slideDown('slow');",
+			"$('#shipping-address .checkout-content').slideDown('slow');",
+			"<div id=\"payment-address\">",
+			"$('#payment-address .checkout-content').slideDown('slow');",
+			"text_power",
+			"text_footer",
+			"common/footer.tpl",
+			"$mail->set",
+			"sprintf($this->language->get('email_subject')",
+			"$mail->setSubject(sprintf($this->language->get('email_subject')",
+			"upload/catalog/view/theme/default/template/information/contact.tpl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"\"",
+			"\\",
+			"name=search",
+			"/",
+			"adminhtcg11",
+			"$('#payment-address #button-payment-address').click();",
+			"$(\"#shipping-existing select\").prop(\"selectedIndex\", $(\"#payment-existing select\").prop(\"selectedIndex\"));\n$('#shipping-address #button-address').click();\n$('#button-shipping-address').click();",
+			"<div id=\"payment-address\" style=\"display:none\">",
+			"$('#payment-address #button-payment-address').click();"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/UniServer/www/tmp.txt",
+					"settings":
+					{
+						"buffer_size": 831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								831,
+								831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/Dropbox/Dropbox/WriteRoom/Blog 经验分享.txt",
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/UniServer/usr/local/php/php.ini",
+					"settings":
+					{
+						"buffer_size": 68917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68723,
+								68723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 46183.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"header.php",
+				"admin/controller/common/header.php"
+			],
+			[
+				"header.tpl",
+				"admin/view/template/common/header.tpl"
+			],
+			[
+				"home.tpl",
+				"admin/view/template/common/home.tpl"
+			],
+			[
+				"admin/controller/common/header.php",
+				"admin/controller/common/header.php"
+			],
+			[
+				"admin/view/template/common/header.tpl",
+				"admin/view/template/common/header.tpl"
+			],
+			[
+				"httpd-autoindex.conf",
+				"usr/local/apache2/conf/extra/httpd-autoindex.conf"
+			],
+			[
+				"httpd.conf",
+				"usr/local/apache2/conf/httpd.conf"
+			],
+			[
+				"admin/index",
+				"admin/index.php"
+			],
+			[
+				"jquery.1.",
+				"upload/catalog/view/javascript/jquery/jquery-1.7.1.min.js"
+			],
+			[
+				"ca",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/controller/module/category_accordion.php"
+			],
+			[
+				"flexis",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/js/jquery.flexslider-min.js"
+			],
+			[
+				"slideshow.tpl",
+				"upload/catalog/view/theme/default/template/module/slideshow.tpl"
+			],
+			[
+				"slideshow.css",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/stylesheet/slideshow.css"
+			],
+			[
+				"live",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/stylesheet/livesearch.css"
+			],
+			[
+				"template/common/footer.tpl",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/common/footer.tpl"
+			],
+			[
+				"get",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/getdata.php"
+			],
+			[
+				"catalog/controller/product/search.php",
+				"upload/catalog/controller/product/search.php"
+			],
+			[
+				"template/common/header.tpl",
+				"upload/admin/view/template/common/header.tpl"
+			],
+			[
+				"footer.tpl",
+				"OpenCart 1.5.4.X/FILES TO UPLOAD/catalog/view/theme/bigshop/template/common/footer.tpl"
+			],
+			[
+				"catalog/view/theme/default/template/mail/order.tpl",
+				"upload/catalog/view/theme/default/template/mail/order.tpl"
+			],
+			[
+				"order_info",
+				"upload/catalog/view/theme/default/template/account/order_info.tpl"
+			],
+			[
+				"order_his",
+				"upload/admin/view/template/sale/order_history.tpl"
+			],
+			[
+				"order.tpl",
+				"upload/catalog/view/theme/default/template/mail/order.tpl"
+			],
+			[
+				"catalog/view/theme/default/template/checkout/checkout.tpl",
+				"upload/catalog/view/theme/default/template/checkout/checkout.tpl"
+			],
+			[
+				"/catalog/view/theme/default/template/product/product.tpl",
+				"upload/catalog/view/theme/default/template/product/product.tpl"
+			],
+			[
+				"catalog/language/zh-cn/payment/cod.php",
+				"upload/catalog/language/zh-CN/payment/cod.php"
+			],
+			[
+				"zh-cn/payment/cod.php",
+				"upload/admin/language/zh-CN/payment/cod.php"
+			],
+			[
+				"payment_method",
+				"upload/catalog/view/theme/default/template/checkout/payment_method.tpl"
+			],
+			[
+				"controller/payment/",
+				"upload/admin/controller/payment/cod.php"
+			],
+			[
+				"cod.php",
+				"upload/admin/language/zh-CN/payment/cod.php"
+			],
+			[
+				"checkout",
+				"upload/catalog/language/zh-CN/checkout/checkout.php"
+			],
+			[
+				"model/checkout/order.php",
+				"upload/catalog/model/checkout/order.php"
+			],
+			[
+				"mail/order.php",
+				"upload/admin/language/zh-CN/mail/order.php"
+			],
+			[
+				"admin/view/template/sale/contact.tpl",
+				"upload/admin/view/template/sale/contact.tpl"
+			],
+			[
+				"category.tpl",
+				"upload/catalog/view/theme/default/template/product/category.tpl"
+			],
+			[
+				"product.tpl",
+				"upload/catalog/view/theme/default/template/product/product.tpl"
+			],
+			[
+				"model/catalog/prod",
+				"upload/catalog/model/catalog/product.php"
+			],
+			[
+				"catalog/controller/product/product.php",
+				"upload/catalog/controller/product/product.php"
+			],
+			[
+				"admin/language/english/common/footer.php",
+				"admin/language/english/common/footer.php"
+			],
+			[
+				"model/prod",
+				"admin/model/catalog/product.php"
+			],
+			[
+				"product.php",
+				"admin/controller/catalog/product.php"
+			],
+			[
+				"admin/language/zh-cn/payment/cod.php",
+				"admin/language/zh-CN/payment/cod.php"
+			],
+			[
+				"c",
+				"admin/controller/sale/contact.php"
+			],
+			[
+				"复件footer",
+				"catalog/view/theme/default/template/common/复件 footer.tpl"
+			],
+			[
+				"catalog/language/zh-cn/mail/order.php",
+				"catalog/language/zh-CN/mail/order.php"
+			],
+			[
+				"catalog/language/zh-cn/checkout/checkout.php",
+				"catalog/language/zh-CN/checkout/checkout.php"
+			],
+			[
+				"checkout.tpl",
+				"catalog/view/theme/default/template/checkout/checkout.tpl"
+			],
+			[
+				"checkout.tp",
+				"catalog/view/theme/default/template/checkout/checkout.tpl"
+			],
+			[
+				"chekcout",
+				"catalog/controller/checkout/checkout.php"
+			],
+			[
+				"common/footer.tpl",
+				"admin/view/template/common/footer.tpl"
+			],
+			[
+				"language/zh-cn/mail/ord",
+				"admin/language/zh-CN/mail/order.php"
+			],
+			[
+				"order",
+				"admin/language/zh-CN/sale/order.php"
+			],
+			[
+				"mail/order",
+				"catalog/language/english/mail/order.php"
+			],
+			[
+				"order.php",
+				"admin/controller/sale/order.php"
+			],
+			[
+				"contact.tpl",
+				"catalog/view/theme/default/template/information/contact.tpl"
+			],
+			[
+				"catalog/controller/information/contact.php",
+				"upload/catalog/controller/information/contact.php"
+			],
+			[
+				"catalog/language/zh-cn/information/contact.php",
+				"upload/catalog/language/zh-CN/information/contact.php"
+			],
+			[
+				"catalog/language/english/information/contact.php",
+				"upload/catalog/language/english/information/contact.php"
+			],
+			[
+				"library/pagination.php",
+				"upload/system/library/pagination.php"
+			],
+			[
+				"template/module/information.tpl",
+				"upload/admin/view/template/module/information.tpl"
+			],
+			[
+				"module/information",
+				"upload/catalog/controller/module/information.php"
+			],
+			[
+				"information",
+				"upload/catalog/language/zh-CN/module/information.php"
+			],
+			[
+				"information.php",
+				"upload/admin/language/zh-CN/catalog/information.php"
+			],
+			[
+				"informaition",
+				"upload/catalog/language/zh-CN/information/information.php"
+			],
+			[
+				"contact.php",
+				"admin/controller/sale/contact.php"
+			],
+			[
+				"information/cont",
+				"catalog/view/theme/default/template/information/contact.tpl"
+			],
+			[
+				"information/info",
+				"catalog/view/theme/default/template/information/information.tpl"
+			],
+			[
+				"information.t",
+				"admin/view/template/module/information.tpl"
+			],
+			[
+				"product.t",
+				"catalog/view/theme/default/template/product/product.tpl"
+			],
+			[
+				"conta",
+				"catalog/controller/information/contact.php"
+			],
+			[
+				"contat",
+				"admin/view/template/sale/contact.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true
+}

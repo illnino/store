@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/UniServer/www/store"
+		}
+	],
+	"settings":
+    {
+        "xdebug": {
+            "url": "http://localhost/store"
+        }
+    }
+}
